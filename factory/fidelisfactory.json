@@ -1,0 +1,9 @@
+{
+	"name": "fidelisfactory",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c42eb7e5-51c3-4f83-b6ce-4cfe5a8abb4a",
+		"tenantId": "a2e466aa-4f86-4545-b5b8-97da7c8febf3"
+	}
+}
